@@ -1,0 +1,15 @@
+{
+	"name": "titipat/php-calculator",
+	"authors": [
+		{
+			"name": "Titipat",
+			"email": "titipats@outlook.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Titipat\\" : "src"
+		}
+	}
+}
